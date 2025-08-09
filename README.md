@@ -1,6 +1,6 @@
-# ExcelMind AI - Supabase Edition
+# ExcelMind AI
 
-A cutting-edge Learning Management System powered by AI and built with Supabase, providing personalized educational experiences through intelligent course recommendations and automated syllabus generation.
+A cutting-edge Learning Management System powered by AI and built with PostgreSQL, providing personalized educational experiences through intelligent course recommendations and automated syllabus generation.
 
 ## 🚀 Project Overview
 
